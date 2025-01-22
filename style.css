@@ -86,6 +86,7 @@ ul li {
 #contact div {
     margin-bottom: 10px; /* Adds space between each line */
     line-height: 1.5;
+    text-align: center;
 }
 
 /*#contact p {
