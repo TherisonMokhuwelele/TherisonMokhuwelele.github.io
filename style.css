@@ -82,8 +82,14 @@ ul li {
 }
 
 /* Contact Section */
-#contact p {
-    text-align: center;
+
+#contact div {
+    margin-bottom: 10px; /* Adds space between each line */
+    line-height: 1.5;
+}
+
+/*#contact p {
+    text-align: center;*/
 }
 
 #contact a {
